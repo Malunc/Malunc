@@ -2,7 +2,7 @@
 
 
 - 😄 Pronouns: Evan Huang
-- 🔭 I’m currently working on ChongQing
+- 🔭 I’m currently working in ChongQing
 - 💬 WeChat: okk0711
 - 📫 Email: <64867944@qq.com>
 - 🐤 Twitter: <https://twitter.com/huangguan2001>
