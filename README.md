@@ -12,5 +12,5 @@
 </a>
 
 <a href="https://github.com/huangguan2001/">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangguan2001&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangguan2001&layout=compact" />
 </a>
