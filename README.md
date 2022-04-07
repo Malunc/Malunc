@@ -1,18 +1,19 @@
 ## Hello~ 👋
 
 
-- 😄 Pronouns: Evan Huang
-- 
-- 🔭 I’m currently working on ChongQing
-- 
-- 💬 WeChat: okk0711
-- 
-- 📫 Email: <64867944@qq.com>
-- 
-- 🐤 Twitter: <https://twitter.com/huangguan2001>
-- 
-- 💻 My Blog Websites: <https://huangguanhao.com/> 
-- 
+ 😄 Pronouns: Evan Huang 
+ 
+ 🔭 I’m currently working on ChongQing
+ 
+ 💬 WeChat: okk0711
+ 
+ 📫 Email: <64867944@qq.com>
+ 
+ 🐤 Twitter: <https://twitter.com/huangguan2001>
+ 
+ 💻 My Blog Websites: <https://huangguanhao.com/> 
+ 
+ 
 
 
 <a href="https://github.com/huangguan2001/">
