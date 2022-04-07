@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello~ 👋
 
-<!--
-**huangguan2001/huangguan2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: Evan Huang
+- 🔭 I’m currently working on ChongQing
+- 💬 WeChat: okk0711
+- 📫 Email: <64867944@qq.com>
+- 🐤 Twitter: <https://twitter.com/huangguan2001>
+- 💻 My Blog Websites: <https://huangguanhao.com/> 
 
-Here are some ideas to get you started:
+<a href="https://github.com/huangguan2001/">
+  <img  src="https://github-readme-stats.vercel.app/api?username=huangguan2001&theme=algolia&count_private=true&show_icons=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/huangguan2001/">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=huangguan2001&layout=compact" />
+</a>
