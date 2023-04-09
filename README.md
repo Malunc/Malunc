@@ -28,7 +28,7 @@
 
 #  🙋 Hello
 <div aligin="center">
-    <div>
+    <div align="left">
       <p>&emsp;&emsp;Hi, I am mtiko.</p>
       <p>&emsp;&emsp;I am an independent development engineer.</p>
       <p>&emsp;&emsp;Love computer science and IT internet career.</p>
