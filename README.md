@@ -11,6 +11,8 @@
 <img width="200%" heght="30" margin-bottom="30px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </br>
 </br>
+</br>
+&emsp;&emsp;
 
 
 
@@ -42,9 +44,9 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;Hi, I am mtiko</p>
-<p>&emsp;&emsp;I am an independent development engineer</p>
-<p>&emsp;&emsp;Peace and joy, fulfilling one's wishes</p>
+<p>&emsp;&emsp;Hi, I am mtiko</p>&emsp;&emsp;
+<p>&emsp;&emsp;I am an independent development engineer</p>&emsp;&emsp;
+<p>&emsp;&emsp;Peace and joy, fulfilling one's wishes</p>&emsp;&emsp;
       
     </td>
   </tr>
