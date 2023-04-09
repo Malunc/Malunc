@@ -27,17 +27,6 @@
 </div>
 
 #  🙋 Hello
-<div align="center"> 
-  <!-- BLOG-POST-LIST:START -->
-  - 🐻 Hi, I am mtiko.
-
-  - 🎃 I am an independent development engineer.
-
-  - 🚀 Love computer science and IT internet career.
-
-  - 🌋 Peace and joy, fulfilling one's wishes.
-  <!-- BLOG-POST-LIST:END -->
-  
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
@@ -49,7 +38,6 @@
   
 - 🚀 Love computer science and IT internet career.
 <!-- BLOG-POST-LIST:END -->
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />  
