@@ -8,7 +8,7 @@
   
   
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" margin-bottom="30px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -16,9 +16,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://huangguanhao.com/"><img src="https://img.shields.io/badge/Website-博客-ff69b4" /></a>&emsp;
+    <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-blue" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://visitor-badge.glitch.me/badge?page_id=mtiko" alt="访客统计" />
   </div>
