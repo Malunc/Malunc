@@ -6,35 +6,28 @@
     </a>
   </div>
   
+  <!-- ########################################## 分割 ########################################## -->
+  <img width="200%" heght="30" margin-bottom="30px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  &emsp;&emsp;
   
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" heght="30" margin-bottom="30px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-&emsp;&emsp;
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/><br>
 
-
-<div align="center">
- <!-- knock code pictures 敲代码的图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"/><br>
-
- <!-- profile logo 个人资料徽标 -->
-<div align="center">
-  <a href="https://huangguanhao.com/"><img src="https://img.shields.io/badge/Website-博客-ff69b4" /></a>&emsp;
-  <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-1e80ff" /></a>&emsp;
-  <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
-  <!-- visitor statistics logo 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mtiko" alt="访客统计" />
-</div>
-</div>
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://huangguanhao.com/"><img src="https://img.shields.io/badge/Website-博客-ff69b4" /></a>&emsp;
+    <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-1e80ff" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
+    <!-- visitor statistics logo 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mtiko" alt="访客统计" />
+  </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/mtiko/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 #  🙋 Hello
-<table aligin="center">
-  <tr>
-    <td>
+<div aligin="center">
 <!--       <div align=""  width="50%">
         <p>&emsp;&emsp;Hi, I am mtiko.</p>
         <p>&emsp;&emsp;I am an independent development engineer.</p>
@@ -59,9 +52,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
-    </td>
-  </tr>
-</table>
+</div>
 
 <!-- <table align="center" width="100%">
 <tr><td>
