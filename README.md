@@ -5,7 +5,6 @@
 - 🔭 I’m currently working in ChongQing
 - 💬 WeChat: okk0711
 - 📫 Email: <64867944@qq.com>
-- 🐤 Twitter: <https://twitter.com/huangguan2001>
 - 💻 My Blog Websites: <https://huangguanhao.com/> 
  
  
