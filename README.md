@@ -2,8 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://huangguanhao.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760AD&width=435&lines=All+your+sadness+stems+from+a+lack+of+skill" alt="Typing SVG" />
-    </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760AD&width=520&lines=All+your+sadness+stems+from+a+lack+of+skill" alt="Typing SVG" /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
