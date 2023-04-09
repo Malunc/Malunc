@@ -36,7 +36,11 @@
 
 - 😺 Love computer science and IT internet career.
   
-- 🚀 Love computer science and IT internet career.
+- 🚀 Peace and joy, fulfilling one's wishes.
+
+<!-- - 🌋  -->
+
+<!-- - 🌁   -->
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ########################################## 分割 ########################################## -->
