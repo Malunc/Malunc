@@ -12,34 +12,39 @@
 &emsp;&emsp;
 
 
- <div align="center">
-    <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" align="left"/><br>
-  <div align=""  width="50%">
-    #  🙋 Hello
-    <p>&emsp;&emsp;Hi, I am mtiko.</p>
-    <p>&emsp;&emsp;I am an independent development engineer.</p>
-    <p>&emsp;&emsp;Love computer science and IT internet career.</p>
-    <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p>  
-  </div>
-      <!-- profile logo 个人资料徽标 -->
-  <div align="center">
-    <a href="https://huangguanhao.com/"><img src="https://img.shields.io/badge/Website-博客-ff69b4" /></a>&emsp;
-    <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-1e80ff" /></a>&emsp;
-    <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
-    <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mtiko" alt="访客统计" />
-  </div>
- </div>
+<div align="center">
+ <!-- knock code pictures 敲代码的图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" align="left"/><br>
 
-
-
+ <!-- profile logo 个人资料徽标 -->
+<div align="center">
+  <a href="https://huangguanhao.com/"><img src="https://img.shields.io/badge/Website-博客-ff69b4" /></a>&emsp;
+  <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-1e80ff" /></a>&emsp;
+  <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
+  <!-- visitor statistics logo 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mtiko" alt="访客统计" />
+</div>
+</div>
+  
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/mtiko/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 #  🙋 Hello
+<table aligin="center">
+  <tr>
+    <td>
+      <div align=""  width="50%">
+        <p>&emsp;&emsp;Hi, I am mtiko.</p>
+        <p>&emsp;&emsp;I am an independent development engineer.</p>
+        <p>&emsp;&emsp;Love computer science and IT internet career.</p>
+        <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p>  
+      </div>
+      <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+    </td>
+  </tr>
+</table>
 
 <!-- <table align="center" width="100%">
 <tr><td>
