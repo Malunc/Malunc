@@ -28,10 +28,12 @@
 
 #  🙋 Hello
 <div aligin="center">
-    <p>&emsp;&emsp;Hi, I am mtiko.</p>
-    <p>&emsp;&emsp;I am an independent development engineer.</p>
-    <p>&emsp;&emsp;Love computer science and IT internet career.</p>
-    <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
+    <div>
+      <p>&emsp;&emsp;Hi, I am mtiko.</p>
+      <p>&emsp;&emsp;I am an independent development engineer.</p>
+      <p>&emsp;&emsp;Love computer science and IT internet career.</p>
+      <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
+    </div>
   
   <!--  挑灯阅读图 -->
   <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
