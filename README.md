@@ -42,7 +42,7 @@
   <!-- just img 图片 -->
 
 
-<div align="left">
+<div align="left"  width="50%">
   <p>&emsp;&emsp;Hi, I am mtiko.</p>
   <p>&emsp;&emsp;I am an independent development engineer.</p>
   <p>&emsp;&emsp;Love computer science and IT internet career.</p>
