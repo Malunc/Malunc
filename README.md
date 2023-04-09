@@ -27,13 +27,20 @@
 </div>
 
 #  🙋 Hello
-<div align="center">
-    <div align="left">
-      <p>&emsp;&emsp;Hi, I am mtiko.</p>
-      <p>&emsp;&emsp;I am an independent development engineer.</p>
-      <p>&emsp;&emsp;Love computer science and IT internet career.</p>
-      <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
-    </div>
+<div align="center">  
+  <!-- BLOG-POST-LIST:START -->
+- 🐻 Hi, I am mtiko.
+
+- 🎃 I am an independent development engineer.
+
+- 🚀 Love computer science and IT internet career.
+
+- 🌋 Peace and joy, fulfilling one's wishes.
+
+<!-- - 🌁 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/)  -->
+
+<!-- - 😺 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/)  -->
+<!-- BLOG-POST-LIST:END -->
   
   
   
