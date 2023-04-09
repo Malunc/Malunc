@@ -39,6 +39,8 @@
 ### 🤺 About Me
   
 <!-- <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
+  <!-- just img 图片 -->
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <p>&emsp;&emsp;Hi, I am mtiko.</p>
 <p>&emsp;&emsp;I am an independent development engineer.</p>
@@ -48,34 +50,13 @@
 <tr><td>
 </table>
 
-<!-- <table>
-  <tr>
-    <td>
-
-<!-- About me 关于我 -->
-<!-- ### 🤺 About Me -->
-  
-<!-- <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
-
-<!-- <p>&emsp;&emsp;Hi, I am mtiko</p>   -->
-<!-- <p>&emsp;&emsp;I am an independent development engineer</p>   -->
-<!-- <p>&emsp;&emsp;Peace and joy, fulfilling one's wishes</p>   -->
-<!--       <p>&emsp;&emsp;大家好，我是小孙同学。</p> -->
-<!--       <p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p> -->
-<!--       <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p> -->
-<!--       <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p> -->
-      
-<!--     </td> -->
-<!--   </tr> -->
-<!-- </table> -->
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />  
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" /> -->
 
 <!--  skill badge 技能徽章 -->
 💪 Current Learning
