@@ -40,12 +40,16 @@
   
 <!-- <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
   <!-- just img 图片 -->
-<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
-<p>&emsp;&emsp;Hi, I am mtiko.</p>
-<p>&emsp;&emsp;I am an independent development engineer.</p>
-<p>&emsp;&emsp;Love computer science and IT internet career.</p>
-<p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p>
+
+<div align="left">
+  <p>&emsp;&emsp;Hi, I am mtiko.</p>
+  <p>&emsp;&emsp;I am an independent development engineer.</p>
+  <p>&emsp;&emsp;Love computer science and IT internet career.</p>
+  <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
+</div>
+  
+<img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <tr><td>
 </table>
