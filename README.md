@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://huangguanhao.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760AD&width=435&lines=All+your+sadness+stems+from+a+lack+of+skill" alt="Typing SVG" />
+    <a href="https://huangguanhao.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F760AD&width=520&lines=All+your+sadness+stems+from+a+lack+of+skill" alt="Typing SVG" />
     </a>
   </div>
 
@@ -19,7 +19,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/mtiko/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
