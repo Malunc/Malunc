@@ -19,7 +19,7 @@
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/mtiko/mtiko/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
