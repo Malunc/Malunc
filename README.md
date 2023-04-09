@@ -27,22 +27,16 @@
 </div>
 
 #  🙋 Hello
-<div align="center">  
+<div align="center"> 
   <!-- BLOG-POST-LIST:START -->
-- 🐻 Hi, I am mtiko.
+  - 🐻 Hi, I am mtiko.
 
-- 🎃 I am an independent development engineer.
+  - 🎃 I am an independent development engineer.
 
-- 🚀 Love computer science and IT internet career.
+  - 🚀 Love computer science and IT internet career.
 
-- 🌋 Peace and joy, fulfilling one's wishes.
-
-<!-- - 🌁 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/)  -->
-
-<!-- - 😺 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/)  -->
-<!-- BLOG-POST-LIST:END -->
-  
-  
+  - 🌋 Peace and joy, fulfilling one's wishes.
+  <!-- BLOG-POST-LIST:END -->
   
   <!--  挑灯阅读图 -->
   <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
