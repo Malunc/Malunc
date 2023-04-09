@@ -41,9 +41,13 @@
   
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
-<p>&emsp;&emsp;Hi, I am mtiko</p>  
-<p>&emsp;&emsp;I am an independent development engineer</p>  
-<p>&emsp;&emsp;Peace and joy, fulfilling one's wishes</p>  
+<!-- <p>&emsp;&emsp;Hi, I am mtiko</p>   -->
+<!-- <p>&emsp;&emsp;I am an independent development engineer</p>   -->
+<!-- <p>&emsp;&emsp;Peace and joy, fulfilling one's wishes</p>   -->
+      <p>&emsp;&emsp;大家好，我是小孙同学。</p>
+      <p>&emsp;&emsp;目前就读于安徽理工大学地理信息科学专业。</p>
+      <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
+      <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
       
     </td>
   </tr>
@@ -58,7 +62,7 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+💪 Current Learning
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -69,7 +73,7 @@
 
 
   
-🧠 计划学习
+🧠 Planned Learning
 
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
