@@ -13,8 +13,16 @@
 
 
 
+  <div align="center">
+   <div align="left"  width="50%">
+  <p>&emsp;&emsp;Hi, I am mtiko.</p>
+  <p>&emsp;&emsp;I am an independent development engineer.</p>
+  <p>&emsp;&emsp;Love computer science and IT internet career.</p>
+  <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
+</div>
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" align="right"/><br>
+  </div>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -32,27 +40,24 @@
 
 #  🙋 Hello
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
 <tr><td>
 
-<!-- About me 关于我 -->
+About me 关于我
 ### 🤺 About Me
   
-<!-- <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
-  <!-- just img 图片 -->
-
-
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 <div align="left"  width="50%">
   <p>&emsp;&emsp;Hi, I am mtiko.</p>
   <p>&emsp;&emsp;I am an independent development engineer.</p>
   <p>&emsp;&emsp;Love computer science and IT internet career.</p>
   <p><strong>&emsp;&emsp;Peace and joy, fulfilling one's wishes.</strong></p> 
 </div>
-  
+ just img 图片
 <img align="right" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <tr><td>
-</table>
+</table> -->
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />  
