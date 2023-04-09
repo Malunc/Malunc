@@ -38,8 +38,17 @@
   - 🌋 Peace and joy, fulfilling one's wishes.
   <!-- BLOG-POST-LIST:END -->
   
-  <!--  挑灯阅读图 -->
-  <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+- 🐻 Hi, I am mtiko. 
+
+- 🎃 I am an independent development engineer.
+
+- 😺 Love computer science and IT internet career.
+  
+- 🚀 Love computer science and IT internet career.
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
