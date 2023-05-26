@@ -19,7 +19,8 @@
     <a href="https://juejin.cn/user/1205527507112967"><img src="https://img.shields.io/badge/juejin-掘金-1e80ff" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_55558061"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Malunc" alt="访客统计" />
+<!--     <img src="https://visitor-badge.glitch.me/badge?page_id=Malunc" alt="访客统计" /> -->
+    [![](https://visitor-badge.laobi.icu/badge?page_id=Malunc)](https://visitor-badge.laobi.icu/badge?page_id=Malunc)
   </div>
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
